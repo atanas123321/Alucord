@@ -1,9 +1,9 @@
 {
     "manifest": {
-        "version": "1.0.0",
+        "version": "1.5.0",
         "name": "Dark Discord Theme",
         "author": "Dankata",
-        "updater": "https://raw.githubusercontent.com/Dankatapich/Alucord/main/Dark_Discord_Theme.json"
+        "updater": "https:\/\/raw.githubusercontent.com\/Dankatapich\/Alucord\/main\/Dark_Discord_Theme.json"
     },
     "background": {
         "url": "https:\/\/media.discordapp.net\/attachments\/922585165790847059\/923181601557467177\/318490e0e5a19c6b11e95e1621740a55.jpg",
@@ -21,12 +21,12 @@
         "active_channel": 2115838785
     },
     "colors": {
-        "link": -10191147,
-        "primary_dark_300": -14527284,
+        "link": -11398385,
+        "primary_dark_300": -15184000,
         "primary_dark_200": -4668463,
         "primary_dark_400": -7827310,
-        "primary_dark_800": 385875968,
-        "uikit_btn_bg_color_selector_red": -14527284,
+        "primary_dark_800": -15138804,
+        "uikit_btn_bg_color_selector_red": -15317392,
         "uikit_settings_item_text_color_dark": -4669231
     },
     "drawable_tints": {
